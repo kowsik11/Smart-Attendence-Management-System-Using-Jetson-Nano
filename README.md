@@ -72,31 +72,6 @@ Face Recognition Accuracy: Autoencoders are used to reduce false positives and i
 Secure Data Storage: Attendance records are securely stored in a local SQLite database to prevent unauthorized access.
 Real-Time Processing: The system runs in real-time, ensuring up-to-date attendance tracking without manual intervention.
 
-🤝 Contributing
-Feel free to fork this project, submit issues, and create pull requests. Contributions are welcome!
-
-Fork the repository
-Create your branch (git checkout -b feature-name)
-Commit your changes (git commit -am 'Add feature')
-Push to the branch (git push origin feature-name)
-Create a new pull request
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Emojis Added:
-- 🧑‍🏫 for the educational focus
-- 🎓 for student-related aspects
-- 📑 for table of contents
-- 📝 for project description
-- 🔑 for key features
-- 🧠 for system features
-- 🔧 for technologies
-- 🚀 for setup and running instructions
-- 🛡️ for security and accuracy
-- 🤝 for contributing
-- 📜 for license
-
 
 
 
